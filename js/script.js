@@ -1,3 +1,5 @@
 $( document ).ready(function() {
-    console.log( "ready!" );
+  <script>
+   $("#text").append("this is so freaking cool.");
+  </script>
 });
